@@ -1,1 +1,25 @@
+body {
+    font-family: serif;
+    background-color: black;
+    color: white;
+}
 
+.extreme {
+    background-color: white;
+    color: black;
+}
+h4 {
+    font-weight: 900;
+}
+
+#desc {
+    font-size: large;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover {
+    color: aqua;
+}
